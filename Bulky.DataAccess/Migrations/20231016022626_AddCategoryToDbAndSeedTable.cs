@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 #nullable disable
 
