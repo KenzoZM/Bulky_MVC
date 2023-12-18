@@ -398,4 +398,7 @@ FodyWeavers.xsd
 *.sln.iml
 
 # Local database
-appsettings.json
+BulkyWeb/appsettings.json
+
+# Local database
+BulkyWebRazor_Temp/appsettings.json
